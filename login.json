@@ -26,19 +26,6 @@
     "image": null
   },
   {
-    "name": "hhg",
-    "password": "ggggc",
-    "role": "member",
-    "limit": 20,
-    "expired": 20,
-    "deleted": false,
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": null,
-    "OTP": null,
-    "image": null
-  },
-  {
     "name": "asik",
     "password": "ahsvvs",
     "role": "member",
