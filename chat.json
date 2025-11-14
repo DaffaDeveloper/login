@@ -1,4 +1,4 @@
-[
+ [
   {
     "name": "daffa",
     "role": "owner",
@@ -6,60 +6,7 @@
     "Telegram": "@daffaowner",
     "ipAddress": "103.157.48.105",
     "image": "https://a.top4top.io/p_3574atk9e1.jpg",
-    "pesan": [
-      {
-        "text": "Halo admin, ini pesan percobaan pertama.",
-        "time": "2025-01-14T12:00:00"
-      },
-      {
-        "text": "Apakah sistem chat bekerja?",
-        "time": "2025-01-14T12:01:40"
-      }
-    ],
-    "reply": [
-      {
-        "text": "Halo! Sistem chat berjalan normal.",
-        "time": "2025-01-14T12:02:10"
-      },
-      {
-        "text": "Silahkan coba mengirim pesan lagi.",
-        "time": "2025-01-14T12:02:50"
-      }
-    ]
-  },
-  {
-    "name": "alex",
-    "role": "member",
-    "WhatsApp": "6289876543210",
-    "Telegram": "@alexmember",
-    "ipAddress": "140.213.22.55",
-    "image": "https://i.pravatar.cc/150?img=12",
-    "pesan": [
-      {
-        "text": "Permisi admin, apakah saya bisa request akses?",
-        "time": "2025-01-13T15:30:10"
-      }
-    ],
-    "reply": [
-      {
-        "text": "Tentu, akses sudah dikirim.",
-        "time": "2025-01-13T15:31:20"
-      }
-    ]
-  },
-  {
-    "name": "riko",
-    "role": "helper",
-    "WhatsApp": "6287712345678",
-    "Telegram": "@rikosupport",
-    "ipAddress": "36.77.88.190",
-    "image": "https://i.pravatar.cc/150?img=32",
-    "pesan": [
-      {
-        "text": "Saya sudah bantu jawab pertanyaan user.",
-        "time": "2025-01-12T10:12:00"
-      }
-    ],
+    "pesan": [],
     "reply": []
   }
-]
+ ]
