@@ -1,12 +1,28 @@
- [
+[
   {
     "name": "daffa",
     "role": "owner",
-    "WhatsApp": "6281234567890",
-    "Telegram": "@daffaowner",
     "ipAddress": "103.157.48.105",
     "image": "https://a.top4top.io/p_3574atk9e1.jpg",
-    "pesan": [],
+    "pesan": [
+      {
+        "text": "Halo admin!",
+        "time": "2025-01-14T11:00:00"
+      }
+    ],
     "reply": []
+  },
+  {
+    "name": "alex",
+    "role": "member",
+    "ipAddress": "140.213.22.55",
+    "image": "https://i.pravatar.cc/150?img=12",
+    "pesan": [],
+    "reply": [
+      {
+        "text": "Halo daffa, ada yang bisa saya bantu?",
+        "time": "2025-01-14T11:01:00"
+      }
+    ]
   }
- ]
+]
