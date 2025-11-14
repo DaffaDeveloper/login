@@ -31,7 +31,7 @@
     "role": "partner",
     "limit": 30,
     "expired": "2025-11-15T11:53:18.906Z",
-    "deleted": false,
+    "deleted": true,
     "WhatsApp": null,
     "Telegram": null,
     "ipAddress": "",
