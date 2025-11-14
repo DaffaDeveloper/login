@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "gsgsvs",
+    "password": "ggsvsvs",
+    "role": "owner",
+    "limit": 84848484,
+    "expired": null,
+    "deleted": false,
+    "WhatsApp": null,
+    "Telegram": null,
+    "ipAddress": "",
+    "OTP": null,
+    "image": null
+  }
+]
