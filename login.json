@@ -11,18 +11,5 @@
     "ipAddress": "",
     "OTP": null,
     "image": null
-  },
-  {
-    "name": "hhg",
-    "password": "ggggc",
-    "role": "reseller",
-    "limit": 1,
-    "expired": null,
-    "deleted": false,
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": "114.5.218.79",
-    "OTP": null,
-    "image": null
   }
 ]
