@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "anjay",
+    "password": "asik",
+    "role": "owner",
+    "limit": 6464848,
+    "expired": null,
+    "deleted": false,
+    "WhatsApp": null,
+    "Telegram": null,
+    "ipAddress": "",
+    "OTP": null,
+    "image": null
+  }
+]
