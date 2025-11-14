@@ -1,15 +1,1 @@
-[
-  {
-    "name": "anjay",
-    "password": "hshsbs",
-    "role": "owner",
-    "limit": 50,
-    "expired": null,
-    "deleted": false,
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": "",
-    "OTP": null,
-    "image": null
-  }
-]
+[]
