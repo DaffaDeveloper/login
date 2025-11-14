@@ -4,9 +4,12 @@
     "password": "123",
     "role": "owner",
     "limit": 10,
-    "expired": "",
+    "expired": null,
+    "deleted": false,
+    "WhatsApp": null,
+    "Telegram": null,
     "ipAddress": "114.5.216.238",
-    "OTP": "",
-    "image": ""
+    "OTP": null,
+    "image": null
   }
 ]
