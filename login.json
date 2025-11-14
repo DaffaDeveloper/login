@@ -24,5 +24,18 @@
     "ipAddress": "",
     "OTP": null,
     "image": null
+  },
+  {
+    "name": "anjay",
+    "password": "q",
+    "role": "partner",
+    "limit": 30,
+    "expired": "2025-11-15T11:53:18.906Z",
+    "deleted": false,
+    "WhatsApp": null,
+    "Telegram": null,
+    "ipAddress": "",
+    "OTP": null,
+    "image": null
   }
 ]
