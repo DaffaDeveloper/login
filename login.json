@@ -1,15 +1,1 @@
-[
-  {
-    "name": "daffa",
-    "password": "123",
-    "role": "owner",
-    "limit": 10,
-    "expired": null,
-    "deleted": false,
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": "",
-    "OTP": null,
-    "image": null
-  }
-]
+[]
