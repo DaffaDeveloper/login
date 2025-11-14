@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "anjay",
+    "password": "1",
+    "role": "owner",
+    "limit": 50,
+    "expired": "2025-12-14T10:45:01.570Z",
+    "deleted": false
+  }
+]
