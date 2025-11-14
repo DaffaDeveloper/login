@@ -24,18 +24,5 @@
     "ipAddress": "",
     "OTP": null,
     "image": null
-  },
-  {
-    "name": "pspssj",
-    "password": "hshsbs",
-    "role": "member",
-    "limit": 10,
-    "expired": "2039-06-02T12:03:41.454Z",
-    "deleted": false,
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": "",
-    "OTP": null,
-    "image": null
   }
 ]
