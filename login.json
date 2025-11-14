@@ -11,5 +11,18 @@
     "ipAddress": "",
     "OTP": null,
     "image": null
+  },
+  {
+    "name": "asu",
+    "password": "hshsbs",
+    "role": "developer",
+    "limit": 5,
+    "expired": null,
+    "deleted": false,
+    "WhatsApp": null,
+    "Telegram": null,
+    "ipAddress": "",
+    "OTP": null,
+    "image": null
   }
 ]
