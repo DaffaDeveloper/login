@@ -5,7 +5,7 @@
     "role": "owner",
     "limit": 50,
     "expired": "2025-12-14T11:37:08.867Z",
-    "deleted": false,
+    "deleted": true,
     "WhatsApp": null,
     "Telegram": null,
     "ipAddress": "",
