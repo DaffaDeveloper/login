@@ -11,18 +11,5 @@
     "ipAddress": "114.5.216.238",
     "OTP": null,
     "image": null
-  },
-  {
-    "name": "puki",
-    "password": "hhyhy",
-    "role": "developer",
-    "limit": 80,
-    "expired": null,
-    "deleted": false,
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": null,
-    "OTP": null,
-    "image": null
   }
 ]
