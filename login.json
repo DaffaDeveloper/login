@@ -11,18 +11,5 @@
     "ipAddress": "114.5.216.238",
     "OTP": null,
     "image": null
-  },
-  {
-    "name": "pik",
-    "password": "vvvv",
-    "role": "developer",
-    "limit": 580,
-    "expired": "2027-06-17",
-    "deleted": false,
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": null,
-    "OTP": null,
-    "image": null
   }
 ]
