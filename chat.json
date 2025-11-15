@@ -7,7 +7,11 @@
     "ipAddress": "114.5.214.209",
     "image": "https://a.top4top.io/p_3574atk9e1.jpg",
     "pesan": [
-      "ppp"
+      "ppp",
+      {
+        "text": "woi",
+        "time": "10.22"
+      }
     ]
   }
 ]
