@@ -2,80 +2,27 @@
   {
     "name": "daffa",
     "role": "owner",
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": "",
+    "ipAddress": "103.157.48.105",
     "image": "https://a.top4top.io/p_3574atk9e1.jpg",
     "pesan": [
       {
         "text": "halo",
         "time": "10:18",
-        "timestamp": 1763182176703
-      },
-      {
-        "text": "lagi apa?",
-        "time": "10:19",
-        "timestamp": 1763182176703
-      },
-      {
-        "text": "p",
-        "time": "10.29",
-        "timestamp": 1763182176703
-      },
-      {
-        "text": "p",
-        "time": "10.32",
-        "timestamp": 1763182176703
-      },
-      {
-        "text": "kepo",
-        "time": "10.35",
-        "timestamp": 1763182176703
-      },
-      {
-        "text": "gg",
-        "time": "10.39",
-        "timestamp": 1763182176703
-      },
-      {
-        "text": "kepo",
-        "time": "10.43",
-        "timestamp": 1763178187931
+        "timestamp": 1731646680000
       }
     ]
   },
   {
     "name": "Sayangku2",
     "role": "member",
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": "114.10.15.226",
-    "image": "https://a.top4top.io/p_3574atk9e1.jpg",
+    "ipAddress": "103.158.66.120",
+    "image": "https://i.ibb.co/ZGZ9Ypt/default-girl.jpg",
     "pesan": [
       {
         "text": "hai",
-        "time": "10:18",
-        "timestamp": 1763182176703
-      },
-      {
-        "text": "kamu dimana?",
         "time": "10:19",
-        "timestamp": 1763182176703
+        "timestamp": 1731646740000
       }
     ]
-  },
-  {
-    "name": "User8239",
-    "role": "member",
-    "ipAddress": "114.10.15.226",
-    "image": "https://i.imgur.com/1Q9Z1Zm.png",
-    "pesan": []
-  },
-  {
-    "name": "User567",
-    "role": "member",
-    "ipAddress": "114.5.212.139",
-    "image": "https://i.imgur.com/1Q9Z1Zm.png",
-    "pesan": []
   }
 ]
