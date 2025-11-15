@@ -39,19 +39,6 @@
     "image": null
   },
   {
-    "name": "gg",
-    "password": "gg",
-    "role": "reseller",
-    "limit": 100,
-    "expired": "2025-11-23T03:45:54.977Z",
-    "deleted": false,
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": "",
-    "OTP": null,
-    "image": null
-  },
-  {
     "name": "ggg",
     "password": "gg",
     "role": null,
