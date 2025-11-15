@@ -31,7 +31,7 @@
     "role": null,
     "limit": 0,
     "expired": "2025-11-16T01:35:44.477Z",
-    "deleted": false,
+    "deleted": true,
     "WhatsApp": null,
     "Telegram": null,
     "ipAddress": "",
