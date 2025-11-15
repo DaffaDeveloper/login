@@ -1,48 +1,11 @@
 [
-  {
-    "name": "daffa",
-    "role": "owner",
-    "ipAddress": "103.157.48.105",
-    "image": "https://a.top4top.io/p_3574atk9e1.jpg",
-    "pesan": [
-      {
-        "text": "Halo admin!",
-        "time": "2025-01-14T11:00:00"
-      },
-      {
-        "text": "hhshs",
-        "time": "2025-11-14T15:38:23.170Z"
-      },
-      {
-        "text": "gg",
-        "time": "2025-11-14T15:38:38.023Z"
-      },
-      {
-        "text": "haloo",
-        "time": "2025-11-14T15:43:46.824Z"
-      },
-      {
-        "text": "fff",
-        "time": "2025-11-14T16:02:09.668Z"
-      },
-      {
-        "text": "hi",
-        "time": "2025-11-14T16:06:24.102Z"
-      }
-    ],
-    "reply": []
-  },
-  {
-    "name": "alex",
-    "role": "member",
-    "ipAddress": "140.213.22.55",
-    "image": "https://i.pravatar.cc/150?img=12",
-    "pesan": [],
-    "reply": [
-      {
-        "text": "Halo daffa, ada yang bisa saya bantu?",
-        "time": "2025-01-14T11:01:00"
-      }
-    ]
-  }
+{
+"name": "daffa",
+"role": "owner",
+"WhatsApp": null,
+"Telegram": null,
+"ipAddress": "103.157.48.105",
+"image": "https://a.top4top.io/p_3574atk9e1.jpg",
+"pesan": []
+}
 ]
