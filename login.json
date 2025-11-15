@@ -50,18 +50,5 @@
     "ipAddress": "",
     "OTP": null,
     "image": null
-  },
-  {
-    "name": "test",
-    "password": "1",
-    "role": "member",
-    "limit": 10,
-    "expired": "2025-11-16T10:40:10.114Z",
-    "deleted": true,
-    "WhatsApp": null,
-    "Telegram": null,
-    "ipAddress": "",
-    "OTP": null,
-    "image": null
   }
 ]
