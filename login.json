@@ -44,7 +44,7 @@
     "role": "member",
     "limit": 10,
     "expired": "2025-11-16T01:36:22.272Z",
-    "deleted": false,
+    "deleted": true,
     "WhatsApp": null,
     "Telegram": null,
     "ipAddress": "",
