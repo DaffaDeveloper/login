@@ -9,27 +9,33 @@
     "pesan": [
       {
         "text": "halo",
-        "time": "10:18"
+        "time": "10:18",
+        "timestamp": 1763182176703
       },
       {
         "text": "lagi apa?",
-        "time": "10:19"
+        "time": "10:19",
+        "timestamp": 1763182176703
       },
       {
         "text": "p",
-        "time": "10.29"
+        "time": "10.29",
+        "timestamp": 1763182176703
       },
       {
         "text": "p",
-        "time": "10.32"
+        "time": "10.32",
+        "timestamp": 1763182176703
       },
       {
         "text": "kepo",
-        "time": "10.35"
+        "time": "10.35",
+        "timestamp": 1763182176703
       },
       {
         "text": "gg",
-        "time": "10.39"
+        "time": "10.39",
+        "timestamp": 1763182176703
       },
       {
         "text": "kepo",
@@ -48,11 +54,13 @@
     "pesan": [
       {
         "text": "hai",
-        "time": "10:18"
+        "time": "10:18",
+        "timestamp": 1763182176703
       },
       {
         "text": "kamu dimana?",
-        "time": "10:19"
+        "time": "10:19",
+        "timestamp": 1763182176703
       }
     ]
   },
