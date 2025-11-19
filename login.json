@@ -63,5 +63,18 @@
     "ipAddress": "",
     "OTP": null,
     "image": null
+  },
+  {
+    "name": "jembut",
+    "password": "1",
+    "role": "member",
+    "limit": 10,
+    "expired": "2026-02-07T10:44:55.937Z",
+    "deleted": false,
+    "WhatsApp": null,
+    "Telegram": null,
+    "ipAddress": "",
+    "OTP": null,
+    "image": null
   }
 ]
