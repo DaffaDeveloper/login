@@ -57,7 +57,7 @@
     "role": "reseller",
     "limit": 100,
     "expired": "2025-11-20T08:26:34.807Z",
-    "deleted": false,
+    "deleted": true,
     "WhatsApp": null,
     "Telegram": null,
     "ipAddress": "",
