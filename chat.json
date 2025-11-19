@@ -80,5 +80,12 @@
     "ipAddress": "114.10.14.29",
     "image": "",
     "pesan": []
+  },
+  {
+    "name": "User2734",
+    "role": "member",
+    "ipAddress": "203.83.40.179",
+    "image": "",
+    "pesan": []
   }
 ]
