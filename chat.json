@@ -108,5 +108,12 @@
     "ipAddress": "103.157.48.18",
     "image": "",
     "pesan": []
+  },
+  {
+    "name": "User232",
+    "role": "member",
+    "ipAddress": "203.83.40.165",
+    "image": "",
+    "pesan": []
   }
 ]
