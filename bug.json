@@ -104,5 +104,11 @@
     "target": 647766,
     "type": "delay",
     "status": true
+  },
+  {
+    "sender": true,
+    "target": 647766,
+    "type": "invisible",
+    "status": true
   }
 ]
