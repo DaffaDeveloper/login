@@ -38,5 +38,11 @@
     "target": 727272727,
     "type": "invisible",
     "status": true
+  },
+  {
+    "sender": true,
+    "target": 727272727,
+    "type": "invisible",
+    "status": true
   }
 ]
