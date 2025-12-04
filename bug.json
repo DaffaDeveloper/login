@@ -56,5 +56,11 @@
     "target": null,
     "type": "delay",
     "status": true
+  },
+  {
+    "sender": true,
+    "target": null,
+    "type": "crash_ios",
+    "status": true
   }
 ]
