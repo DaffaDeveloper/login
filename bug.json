@@ -26,5 +26,11 @@
     "target": 6282728282,
     "type": "crash",
     "status": true
+  },
+  {
+    "sender": true,
+    "target": 727272727,
+    "type": "invisible",
+    "status": true
   }
 ]
