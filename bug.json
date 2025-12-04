@@ -1,0 +1,16 @@
+[
+  {
+    "sender": true,
+    "activity": null
+  },
+  {
+    "no": 1,
+    "type": "crash",
+    "status": true
+  },
+  {
+    "no": 2,
+    "type": "delay",
+    "status": true
+  }
+]
