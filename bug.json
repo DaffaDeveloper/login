@@ -62,5 +62,11 @@
     "target": null,
     "type": "crash_ios",
     "status": true
+  },
+  {
+    "sender": true,
+    "target": 62764,
+    "type": "crash",
+    "status": true
   }
 ]
