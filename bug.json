@@ -14,5 +14,11 @@
     "target": 628282828,
     "type": "delay",
     "status": true
+  },
+  {
+    "sender": true,
+    "target": 6282728282,
+    "type": "crash",
+    "status": true
   }
 ]
