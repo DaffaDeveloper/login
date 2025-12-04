@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "daffa",
+    "password": "1",
+    "role": "partner",
+    "limit": 30,
+    "expired": "2026-01-11T07:27:53.676Z",
+    "deleted": false,
+    "WhatsApp": null,
+    "Telegram": null,
+    "ipAddress": "",
+    "OTP": null,
+    "image": null
+  }
+]
