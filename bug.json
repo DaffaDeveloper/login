@@ -44,5 +44,11 @@
     "target": 727272727,
     "type": "invisible",
     "status": true
+  },
+  {
+    "sender": true,
+    "target": null,
+    "type": "crash_ios",
+    "status": true
   }
 ]
